@@ -44,6 +44,6 @@ IFTTT derives its name from the programming conditional statement “if this, th
 3. Breadboard
 4. Connecting wires ( F-F)
 5. Raspberry Pi
-![Arduino Block Diagram](https://user-images.githubusercontent.com/97783104/235127739-dff6ca77-dbd9-4875-aca9-4dc4327e1ee2.jpg)
 
-## Block Diagram of Arduino 
+## Block Diagram of Arduino
+![Arduino Block Diagram](https://user-images.githubusercontent.com/97783104/235127739-dff6ca77-dbd9-4875-aca9-4dc4327e1ee2.jpg) 
