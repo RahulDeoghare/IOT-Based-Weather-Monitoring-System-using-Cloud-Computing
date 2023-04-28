@@ -47,3 +47,7 @@ IFTTT derives its name from the programming conditional statement “if this, th
 
 ## Block Diagram of Arduino
 ![Arduino Block Diagram](https://user-images.githubusercontent.com/97783104/235127739-dff6ca77-dbd9-4875-aca9-4dc4327e1ee2.jpg) 
+
+## Block Diagram of Raspberry Pi
+![Raspberry PI Block Diagram](https://user-images.githubusercontent.com/97783104/235128030-25bbc89e-e0ae-4228-983d-1a16a7853ef6.jpg)
+
